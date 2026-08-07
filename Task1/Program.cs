@@ -1,4 +1,4 @@
-﻿namespace HomeTasks;
+﻿namespace Task1;
 
 class Program
 {
